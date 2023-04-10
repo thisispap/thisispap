@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, You Can Call Me Pap</h1>
+<h3 align="center">I want to study about programming</h3>
 
-<!--
-**thisispap/thisispap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m live at **Indonesia**
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Html and Guitar? :/**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact **Low humor**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/@papdaringawi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@papdaringawi" height="30" width="40" /></a>
+</p>
