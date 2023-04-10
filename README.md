@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Html and Guitar? :/**
 
-- ⚡ Fun fact **Low humor**
+- ⚡ Fun fact **Low humor and lowres member💀**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
